@@ -1,4 +1,4 @@
-This is a simple README for https://github.com/vermiculus/magithub!
+This is a simple README for [my new project](https://github.com/vermiculus/magithub)!
 
 Remember,
 
